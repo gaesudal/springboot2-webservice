@@ -1,3 +1,4 @@
+
 package com.sudal.book.springboot.domain;
 
 import lombok.Getter;
